@@ -4,7 +4,7 @@ body{
 
 
 .left {
-  background-color: aquamarine;
+  background-color: lightslategray;
   position: fixed;
   width: 50%;
   height: 100%;
@@ -21,8 +21,8 @@ body{
 
 a.button{
   display: inline-block;
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: whitesmoke;
   padding: 20px 40px;
   text-decoration: none;
   text-transform: uppercase;
